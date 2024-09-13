@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 <div align='center'>
 <h1 align=<'center'>Project 4: Board Game Analysis (G3)</h1>
-<h3 align=<'center'><a href="https://www.canva.com/design/DAGQVVU7OnI/8cAWW35ve_iYiHY9O-c-tg/edit?utm_content=DAGQVVU7OnI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Presintation</a></h3>
+<h3 align=<'center'><a href="https://www.canva.com/design/DAGQVVU7OnI/8cAWW35ve_iYiHY9O-c-tg/edit?utm_content=DAGQVVU7OnI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Presentation</a></h3>
 
 ## About
 * <b>Project summary:</b><br>
